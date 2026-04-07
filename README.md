@@ -1,4 +1,4 @@
-# **🌿 WebD Task — Git Practice**  
+# **🌿 WebD Task 01 — Git Practice**  
 **EDC NIT Durgapur · Web Development Domain**  
 ## **📌 About This Task**  
 This task was assigned by the **Web Development team at EDC NIT Durgapur** as part of the onboarding/skill-building process for new members.  
